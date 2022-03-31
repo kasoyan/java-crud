@@ -8,7 +8,7 @@
   <name>Employee Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <properties>
-		<spring.version>4.3.18.RELEASE</spring.version>
+		<spring.version>5.3.18</spring.version>
 		<hibernate.version>4.3.8.Final</hibernate.version>
 		<mysql.version>5.1.10</mysql.version>
 		<servlet-api-version>4.0.1</servlet-api-version>
